@@ -1,0 +1,284 @@
+HeaderInfo =  
+{
+	mapsize =  
+	{
+		384,
+		384,
+	},
+	point_positions =  
+	{
+		 
+		{
+			ebp_name = "territory_victory_point",
+			owner_id = 0,
+			x = -45.15694,
+			y = -76.02654,
+		},
+		 
+		{
+			ebp_name = "territory_victory_point",
+			owner_id = 0,
+			x = -5.96725,
+			y = 112.52119,
+		},
+		 
+		{
+			ebp_name = "territory_victory_point",
+			owner_id = 0,
+			x = -7.03097,
+			y = 13.69643,
+		},
+		 
+		{
+			ebp_name = "territory_fuel_point_medium",
+			owner_id = 0,
+			x = -118.50463,
+			y = -84.51111,
+		},
+		 
+		{
+			ebp_name = "territory_strategic_point_5m",
+			owner_id = 0,
+			x = -84.57584,
+			y = -61.42095,
+		},
+		 
+		{
+			ebp_name = "territory_munitions_point_medium",
+			owner_id = 0,
+			x = -38.08096,
+			y = -80.49641,
+		},
+		 
+		{
+			ebp_name = "territory_strategic_point_5m",
+			owner_id = 0,
+			x = -42.29808,
+			y = -24.29067,
+		},
+		 
+		{
+			ebp_name = "territory_fuel_point_high",
+			owner_id = 0,
+			x = 12.12252,
+			y = 13.38578,
+		},
+		 
+		{
+			ebp_name = "territory_munitions_point_low",
+			owner_id = 0,
+			x = -129.13599,
+			y = -35.45092,
+		},
+		 
+		{
+			ebp_name = "territory_fuel_point_low",
+			owner_id = 0,
+			x = -147.79031,
+			y = -44.48494,
+		},
+		 
+		{
+			ebp_name = "territory_munitions_point_high",
+			owner_id = 0,
+			x = -21.28123,
+			y = 43.54076,
+		},
+		 
+		{
+			ebp_name = "territory_strategic_point_5m",
+			owner_id = 0,
+			x = -0.66734,
+			y = 107.03090,
+		},
+		 
+		{
+			ebp_name = "territory_fuel_point_medium",
+			owner_id = 0,
+			x = 98.49381,
+			y = 84.14984,
+		},
+		 
+		{
+			ebp_name = "territory_munitions_point_medium",
+			owner_id = 0,
+			x = 153.40913,
+			y = 138.04391,
+		},
+		 
+		{
+			ebp_name = "territory_fuel_point_low",
+			owner_id = 0,
+			x = 107.91617,
+			y = 11.37414,
+		},
+		 
+		{
+			ebp_name = "territory_munitions_point_low",
+			owner_id = 0,
+			x = 88.23811,
+			y = -23.95277,
+		},
+		 
+		{
+			ebp_name = "starting_position",
+			owner_id = 1000,
+			x = -146.53169,
+			y = 77.64784,
+		},
+		 
+		{
+			ebp_name = "starting_position",
+			owner_id = 1002,
+			x = -127.72046,
+			y = 141.69969,
+		},
+		 
+		{
+			ebp_name = "starting_position",
+			owner_id = 1004,
+			x = -146.07892,
+			y = 112.46570,
+		},
+		 
+		{
+			ebp_name = "starting_position",
+			owner_id = 1006,
+			x = -101.96957,
+			y = 142.01497,
+		},
+		 
+		{
+			ebp_name = "starting_position",
+			owner_id = 1001,
+			x = 112.74777,
+			y = -143.71881,
+		},
+		 
+		{
+			ebp_name = "starting_position",
+			owner_id = 1003,
+			x = 80.31986,
+			y = -144.13124,
+		},
+		 
+		{
+			ebp_name = "starting_position",
+			owner_id = 1005,
+			x = 144.08714,
+			y = -123.22595,
+		},
+		 
+		{
+			ebp_name = "starting_position",
+			owner_id = 1007,
+			x = 144.03426,
+			y = -85.64680,
+		},
+	},
+	scenario_type = 1,
+	scenarioname = "(8) Ironfront Pass",
+	slots =  
+	{
+		 
+		{
+			flags = 4294967231,
+			status = 0,
+			team = 0,
+		},
+		 
+		{
+			flags = 4294967231,
+			status = 0,
+			team = 1,
+		},
+		 
+		{
+			flags = 4294967231,
+			status = 0,
+			team = 0,
+		},
+		 
+		{
+			flags = 4294967231,
+			status = 0,
+			team = 1,
+		},
+		 
+		{
+			flags = 4294967231,
+			status = 0,
+			team = 0,
+		},
+		 
+		{
+			flags = 4294967231,
+			status = 0,
+			team = 1,
+		},
+		 
+		{
+			flags = 4294967231,
+			status = 0,
+			team = 0,
+		},
+		 
+		{
+			flags = 4294967231,
+			status = 0,
+			team = 1,
+		},
+		 
+		{
+			flags = 4294967231,
+			status = 1,
+			team = 0,
+		},
+		 
+		{
+			flags = 4294967231,
+			status = 1,
+			team = 1,
+		},
+		 
+		{
+			flags = 4294967231,
+			status = 1,
+			team = 0,
+		},
+		 
+		{
+			flags = 4294967231,
+			status = 1,
+			team = 1,
+		},
+		 
+		{
+			flags = 4294967231,
+			status = 1,
+			team = 0,
+		},
+		 
+		{
+			flags = 4294967231,
+			status = 1,
+			team = 1,
+		},
+		 
+		{
+			flags = 4294967231,
+			status = 1,
+			team = 0,
+		},
+		 
+		{
+			flags = 4294967231,
+			status = 1,
+			team = 1,
+		},
+	},
+	version = 3001,
+	visible_in_lobby = true,
+	worldbp = "default",
+}
+

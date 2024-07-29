@@ -1,0 +1,28 @@
+<DataWarehouse>
+	<!--Mod/-->
+	<DataObject Name="ironfront-pass" Type="Mod" Id="15630848560618542186" Version="1">
+		<DataProperty Name="m_description" Type="Object">
+			<DataValue Name="util::ReflectLocString">11763535361123515698</DataValue>
+			<!--Mod/util::ReflectLocString/-->
+			<DataObject Name="" Type="util::ReflectLocString" Id="11763535361123515698" OwnerId="15630848560618542186">
+				<DataProperty Name="m_modPart2" Type="UInt32" Value="0"/>
+				<DataProperty Name="m_modPart3" Type="UInt32" Value="0"/>
+				<DataProperty Name="m_modPart0" Type="UInt32" Value="0"/>
+				<DataProperty Name="m_modPart1" Type="UInt32" Value="0"/>
+				<DataProperty Name="m_locStringKey" Type="Int32" Value="0"/>
+			</DataObject>
+		</DataProperty>
+		<DataProperty Name="m_name" Type="Object">
+			<DataValue Name="util::ReflectLocString">4468194225926718969</DataValue>
+			<!--Mod/util::ReflectLocString/-->
+			<DataObject Name="" Type="util::ReflectLocString" Id="4468194225926718969" OwnerId="15630848560618542186">
+				<DataProperty Name="m_modPart2" Type="UInt32" Value="1817334207"/>
+				<DataProperty Name="m_modPart3" Type="UInt32" Value="940862815"/>
+				<DataProperty Name="m_modPart0" Type="UInt32" Value="2098609898"/>
+				<DataProperty Name="m_modPart1" Type="UInt32" Value="1157403792"/>
+				<DataProperty Name="m_locStringKey" Type="Int32" Value="1"/>
+			</DataObject>
+		</DataProperty>
+	</DataObject>
+</DataWarehouse>
+
