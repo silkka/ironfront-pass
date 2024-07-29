@@ -4,11 +4,11 @@
     <LayoutPanel Orientation="Vertical">
       <LayoutDocumentPaneGroup Orientation="Horizontal">
         <LayoutDocumentPane DockWidth="0.350289251319761*">
-          <LayoutDocument Title="ironfront-pass.scenario" IsSelected="True" ContentId="FileName|Scenario|assets\scenarios\ironfront-pass\ironfront-pass.scenario" ToolTip="D:\coh-maps\ironfront-pass\assets\scenarios\ironfront-pass\ironfront-pass.scenario" LastActivationTimeStamp="07/29/2024 23:53:59" />
+          <LayoutDocument Title="ironfront-pass.scenario" IsSelected="True" ContentId="FileName|Scenario|assets\scenarios\ironfront-pass\ironfront-pass.scenario" ToolTip="D:\coh-maps\ironfront-pass\assets\scenarios\ironfront-pass\ironfront-pass.scenario" LastActivationTimeStamp="07/30/2024 00:06:13" />
           <LayoutAnchorable AutoHideMinWidth="100" AutoHideMinHeight="100" Title="Asset Explorer" ContentId="EssenceEditor.AssetExplorer" FloatingLeft="140" FloatingTop="69" FloatingWidth="300" FloatingHeight="800" LastActivationTimeStamp="07/29/2024 14:04:07" />
         </LayoutDocumentPane>
         <LayoutDocumentPane DockWidth="1.64952641664386*">
-          <LayoutDocument Title="Render" IsSelected="True" IsLastFocusedDocument="True" ContentId="EssenceEditor.Render" LastActivationTimeStamp="07/29/2024 23:53:59" />
+          <LayoutDocument Title="Render" IsSelected="True" IsLastFocusedDocument="True" ContentId="EssenceEditor.Render" LastActivationTimeStamp="07/30/2024 00:06:49" />
         </LayoutDocumentPane>
       </LayoutDocumentPaneGroup>
       <LayoutAnchorablePane Id="1b84d0aa-3fd1-4781-909d-fa3e4b760d6d" Name="anchorablesPane" DockHeight="300">
@@ -32,11 +32,11 @@
   <BottomSide />
   <FloatingWindows />
   <Hidden>
-    <LayoutAnchorable AutoHideMinWidth="100" AutoHideMinHeight="100" Title="Output" IsSelected="True" ContentId="Output" LastActivationTimeStamp="07/29/2024 22:55:45" PreviousContainerId="1b84d0aa-3fd1-4781-909d-fa3e4b760d6d" PreviousContainerIndex="0" />
-    <LayoutAnchorable AutoHideMinWidth="100" AutoHideMinHeight="100" Title="Playback" IsSelected="True" ContentId="EssenceEditor.Playback" FloatingLeft="200" FloatingTop="200" FloatingWidth="300" FloatingHeight="100" LastActivationTimeStamp="07/29/2024 22:55:45" PreviousContainerId="f7756db9-15ad-40fe-b1e8-617472cec499" PreviousContainerIndex="0" />
-    <LayoutAnchorable AutoHideMinWidth="100" AutoHideMinHeight="100" Title="Object Browser" IsSelected="True" ContentId="ScenarioEditor.ObjectBrowser" LastActivationTimeStamp="07/29/2024 22:55:45" PreviousContainerId="1b84d0aa-3fd1-4781-909d-fa3e4b760d6d" PreviousContainerIndex="0" />
-    <LayoutAnchorable AutoHideMinWidth="100" AutoHideMinHeight="100" Title="FoW" IsSelected="True" ContentId="ScenarioEditor.FoW" LastActivationTimeStamp="07/29/2024 22:55:45" PreviousContainerId="1b84d0aa-3fd1-4781-909d-fa3e4b760d6d" PreviousContainerIndex="1" />
-    <LayoutAnchorable AutoHideMinWidth="100" AutoHideMinHeight="100" Title="Transformation" ContentId="ScenarioEditor.Transformation" FloatingLeft="200" FloatingTop="200" FloatingWidth="250" FloatingHeight="300" LastActivationTimeStamp="07/29/2024 23:52:48" PreviousContainerId="78c06263-eb86-40c1-8abf-6d89a3781df0" PreviousContainerIndex="0" />
-    <LayoutAnchorable AutoHideMinWidth="100" AutoHideMinHeight="100" Title="Painter" ContentId="ScenarioEditor.Painter" FloatingLeft="200" FloatingTop="200" FloatingWidth="300" FloatingHeight="800" LastActivationTimeStamp="07/29/2024 23:53:22" PreviousContainerId="0b771aba-a17e-42e0-831f-9b08d7281a41" PreviousContainerIndex="0" />
+    <LayoutAnchorable AutoHideMinWidth="100" AutoHideMinHeight="100" Title="Output" IsSelected="True" ContentId="Output" LastActivationTimeStamp="07/30/2024 00:06:13" PreviousContainerId="1b84d0aa-3fd1-4781-909d-fa3e4b760d6d" PreviousContainerIndex="0" />
+    <LayoutAnchorable AutoHideMinWidth="100" AutoHideMinHeight="100" Title="Playback" IsSelected="True" ContentId="EssenceEditor.Playback" FloatingLeft="200" FloatingTop="200" FloatingWidth="300" FloatingHeight="100" LastActivationTimeStamp="07/30/2024 00:06:13" PreviousContainerId="f7756db9-15ad-40fe-b1e8-617472cec499" PreviousContainerIndex="0" />
+    <LayoutAnchorable AutoHideMinWidth="100" AutoHideMinHeight="100" Title="Object Browser" IsSelected="True" ContentId="ScenarioEditor.ObjectBrowser" LastActivationTimeStamp="07/30/2024 00:06:13" PreviousContainerId="1b84d0aa-3fd1-4781-909d-fa3e4b760d6d" PreviousContainerIndex="0" />
+    <LayoutAnchorable AutoHideMinWidth="100" AutoHideMinHeight="100" Title="FoW" IsSelected="True" ContentId="ScenarioEditor.FoW" LastActivationTimeStamp="07/30/2024 00:06:13" PreviousContainerId="1b84d0aa-3fd1-4781-909d-fa3e4b760d6d" PreviousContainerIndex="1" />
+    <LayoutAnchorable AutoHideMinWidth="100" AutoHideMinHeight="100" Title="Painter" IsSelected="True" ContentId="ScenarioEditor.Painter" FloatingLeft="200" FloatingTop="200" FloatingWidth="300" FloatingHeight="800" LastActivationTimeStamp="07/30/2024 00:06:13" PreviousContainerId="0b771aba-a17e-42e0-831f-9b08d7281a41" PreviousContainerIndex="0" />
+    <LayoutAnchorable AutoHideMinWidth="100" AutoHideMinHeight="100" Title="Transformation" ContentId="ScenarioEditor.Transformation" FloatingLeft="200" FloatingTop="200" FloatingWidth="250" FloatingHeight="300" LastActivationTimeStamp="07/30/2024 00:06:22" PreviousContainerId="78c06263-eb86-40c1-8abf-6d89a3781df0" PreviousContainerIndex="0" />
   </Hidden>
 </LayoutRoot>
